@@ -14,7 +14,7 @@ Matriks B:
 ```
 
 ### Output:
-![Penjumlahan Matriks 2X2](Test/Screenshoot/Screenshot from 2023-12-24 14-11-31.png)
+![Penjumlahan Matriks 2X2](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-11-31.png?raw=true)
 #### Penjumlahan Matriks:
 ```
 A + B:
