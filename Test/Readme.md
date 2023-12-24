@@ -14,7 +14,7 @@ Matriks B:
 ```
 
 ### Output:
-![Penjumlahan Matriks 2X2](image link)
+![Penjumlahan Matriks 2X2](Test/Screenshoot/Screenshot from 2023-12-24 14-11-31.png)
 #### Penjumlahan Matriks:
 ```
 A + B:
