@@ -1,4 +1,4 @@
-![image](https://github.com/ball-hand/TUBES-ALGEO-22116/assets/86848228/5956e7c7-ecd2-4157-9cdd-e789e8c0268b)# Studi Kasus Ajabar Geometri
+# Studi Kasus Ajabar Geometri
 
 ## 1. Menghitung Penjumlahan dan Pengurangan Matriks (2 x 2)
 
