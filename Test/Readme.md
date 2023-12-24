@@ -120,13 +120,14 @@ det(G) = 1 * (5*9 - 6*8) - 2 * (4*9 - 6*7) + 3 * (4*8 - 5*7) = 0
 
 ### Input:
 ```
-SPL H:https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-22-45.png
+SPL H:
 2x + 3y = 7
 4x - 2y = 6
 ```
 
 ### Output:
 #### Solusi SPL H:
+
 ![](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-22-45.png?raw=true)
 ```
 x = 2
