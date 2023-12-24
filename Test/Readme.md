@@ -1,4 +1,4 @@
-# Studi Kasus Ajabar Geometri
+![image](https://github.com/ball-hand/TUBES-ALGEO-22116/assets/86848228/5956e7c7-ecd2-4157-9cdd-e789e8c0268b)# Studi Kasus Ajabar Geometri
 
 ## 1. Menghitung Penjumlahan dan Pengurangan Matriks (2 x 2)
 
@@ -14,8 +14,9 @@ Matriks B:
 ```
 
 ### Output:
-![Penjumlahan Matriks 2X2](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-11-31.png?raw=true)
 #### Penjumlahan Matriks:
+![Penjumlahan Matriks 2X2](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-11-31.png?raw=true)
+
 ```
 A + B:
 | 3  6 |
@@ -23,6 +24,7 @@ A + B:
 ```
 
 #### Pengurangan Matriks:
+![](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-28-58.png?raw=true)
 ```
 A - B:
 | 1  2 |
@@ -40,6 +42,7 @@ Matriks C:
 
 ### Output:
 #### Transpose Matriks C:
+![alt](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-19-25.png?raw=true)
 ```
 C^T:
 | 5  7 |
@@ -56,6 +59,7 @@ Matriks D:
 
 ### Output:
 #### Transpose Matriks D:
+![alt](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-20-30.png?raw=true)
 ```
 D^T:
 | 1  4  7 |
@@ -74,6 +78,7 @@ Matriks E:
 
 ### Output:
 #### Matriks Balikan Matriks E:
+![alt](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-20-58.png?raw=true)
 ```
 E^(-1):
 | -4/7  3/7 |
@@ -91,6 +96,7 @@ Matriks F:
 
 ### Output:
 #### Determinan Matriks F:
+![](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-21-32.png?raw=true)
 ```
 det(F) = (3 * 2) - (1 * 4) = 6 - 4 = 2
 ```
@@ -105,6 +111,7 @@ Matriks G:
 
 ### Output:
 #### Determinan Matriks G:
+![](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-22-06.png?raw=true)
 ```
 det(G) = 1 * (5*9 - 6*8) - 2 * (4*9 - 6*7) + 3 * (4*8 - 5*7) = 0
 ```
@@ -113,16 +120,17 @@ det(G) = 1 * (5*9 - 6*8) - 2 * (4*9 - 6*7) + 3 * (4*8 - 5*7) = 0
 
 ### Input:
 ```
-SPL H:
+SPL H:https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-22-45.png
 2x + 3y = 7
 4x - 2y = 6
 ```
 
 ### Output:
 #### Solusi SPL H:
+![](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-22-45.png?raw=true)
 ```
 x = 2
 y = 1
 ```
 
-Ini adalah contoh penggunaan Ajabar Geometri untuk beberapa operasi matriks dan SPL. Anda dapat memodifikasi input sesuai kebutuhan Anda dan menjalankan aplikasi untuk melihat hasilnya.
+Ini adalah contoh penggunaan Ajabar Geometri untuk beberapa operasi matriks dan SPL.
