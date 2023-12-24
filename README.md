@@ -11,28 +11,23 @@ Proyek ini adalah bagian dari tugas besar mata kuliah Ajabar Geometri. Tujuan ut
 
 ## Fitur Aplikasi
 
-1. **Kalkulator Geometri:**
-   - Menghitung luas dan keliling berbagai bentuk geometri seperti persegi, persegi panjang, segitiga, dan lingkaran.
-   - Menghitung volume dan luas permukaan untuk bangun ruang seperti kubus, balok, dan bola.
-   - Menyelesaikan masalah trigonometri dan menghitung panjang sisi menggunakan rumus Pythagoras.
 
-2. **Kalkulator SPL:**
-   - Menyelesaikan sistem persamaan linear dengan metode eliminasi Gauss, matriks, atau metode lainnya.
-   - Menampilkan solusi SPL dalam bentuk persamaan maupun grafik.
+1. Menghitung penjumlahan dan pengurangan matriks (2 x 2)
+2. Menghitung matriks transpose (2 x 2) dan (3x3)
+3. Menghitung matriks balikan (invers) (2 x 2)
+4. Menghitung determinan matriks (2 x 2) dan (3x3)
+5. Menghitung solusi Sistem Persamaan Linier (SPL) (2x3)
 
-3. **Antarmuka Pengguna:**
+6. **Antarmuka Pengguna:**
    - Antarmuka yang ramah pengguna untuk memudahkan penggunaan aplikasi.
-   - Input yang intuitif dan jelas untuk memasukkan data geometri atau SPL.
+   - Input yang intuitif dan jelas untuk memasukkan Matriks atau SPL.
 
-4. **Dokumentasi:**
+7. **Dokumentasi:**
    - Menyertakan dokumentasi lengkap mengenai penggunaan aplikasi.
    - Petunjuk langkah demi langkah untuk mengakses fitur-fitur kalkulator.
 
 ## Panduan Pengguna
 Untuk Menjalankan Silahkan Masuk ke [bin/aljabarGeometri.jar] 
-
-##Note :
-JRE di perlukan Untuk menjalankan aplikasi
 
 ### Penggunaan Aplikasi
 1. Pilih mode kalkulator (Geometri atau SPL) pada antarmuka pengguna.
