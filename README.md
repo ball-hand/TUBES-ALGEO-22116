@@ -1,6 +1,6 @@
 # Tugas Besar Ajabar Geometri - Aplikasi Kalkulator & SPL
 
-<img file:///home/zero/Pictures/Mask%20group2.png/>
+![Logo](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/src/img/Mask%20group%201%20(1).png?raw=true)
 
 Oleh :
 1. Muhamad ikbal handini (10222181)
