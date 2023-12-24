@@ -1,6 +1,6 @@
 # Tugas Besar Ajabar Geometri - Aplikasi Kalkulator & SPL
 
-file:///home/zero/Pictures/Mask%20group2.png
+<img file:///home/zero/Pictures/Mask%20group2.png/>
 
 Oleh :
 1. Muhamad ikbal handini (10222181)
