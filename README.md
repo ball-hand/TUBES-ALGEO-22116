@@ -1,4 +1,4 @@
-### Tugas Besar Ajabar Geometri - Aplikasi Kalkulator & SPL
+# Tugas Besar Ajabar Geometri - Aplikasi Kalkulator & SPL
 Oleh :
 1. Muhamad ikbal handini (10222181)
 2. M hizaz badruzaman (10222121)
