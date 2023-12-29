@@ -10,7 +10,7 @@ Oleh :
 5. Salwa Nurazizah (10222154)
 
 ## Deskripsi Proyek
-Proyek ini adalah bagian dari tugas besar mata kuliah Ajabar Geometri. Tujuan utama proyek ini adalah membuat aplikasi kalkulator yang mampu menangani perhitungan geometri dan sistem persamaan linear (SPL). Aplikasi ini dirancang untuk membantu pengguna dalam menyelesaikan berbagai masalah matematika yang terkait dengan bidang geometri dan persamaan linear.
+Proyek ini adalah bagian dari tugas besar mata kuliah Ajabar Geometri. Tujuan utama proyek ini adalah membuat aplikasi kalkulator yang mampu menangani perhitungan Matriks dan sistem persamaan linear (SPL). Aplikasi ini dirancang untuk membantu pengguna dalam menyelesaikan berbagai masalah matematika yang terkait dengan bidang geometri dan persamaan linear.
 
 ## Fitur Aplikasi
 
