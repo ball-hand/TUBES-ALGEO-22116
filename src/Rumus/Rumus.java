@@ -97,3 +97,4 @@ public class Rumus {
         return result;
     }
 }
+// Untuk operasi Transpose langsung di lakukan di Jpanel (TransposeX2 & TransposeX3)
