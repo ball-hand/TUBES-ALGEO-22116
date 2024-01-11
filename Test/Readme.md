@@ -78,7 +78,7 @@ Matriks E:
 
 ### Output:
 #### Matriks Balikan Matriks E:
-![alt](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202023-12-24%2014-20-58.png?raw=true)
+![alt](https://github.com/ball-hand/TUBES-ALGEO-22116/blob/main/Test/Screenshoot/Screenshot%20from%202024-01-11%2012-33-21.png?raw=true)
 ```
 E^(-1):
 | -4/7  3/7 |
